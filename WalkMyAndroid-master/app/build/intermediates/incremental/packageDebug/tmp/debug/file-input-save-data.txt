@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Mar 30 10:46:56 ICT 2020
+0.baseType=DIRECTORY
+0.base=G\:\\TRPL\\Semester 2\\PAPB 2\\TUGAS\\TUGAS 6 LOCATION\\WalkMyAndroid-PAPB2\\WalkMyAndroid-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

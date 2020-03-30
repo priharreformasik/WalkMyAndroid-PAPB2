@@ -1,0 +1,4 @@
+#Mon Mar 30 10:46:56 ICT 2020
+base.0=G\:\\TRPL\\Semester 2\\PAPB 2\\TUGAS\\TUGAS 6 LOCATION\\WalkMyAndroid-PAPB2\\WalkMyAndroid-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
